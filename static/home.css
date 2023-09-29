@@ -1,0 +1,23 @@
+.m1{
+    margin-top: 56px;
+}
+.ftr {
+  background-color:rgb(182, 182, 210) ;
+  color: transparent;
+ }
+
+.bg_de{
+    background-image: url("../images/paralex.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 500px;
+}
+.desi{
+    border-color: transparent;
+}
+.fot-store{
+    margin: 50px, 50px, 50px, 50px;
+ }
+.fot-science{
+    margin-left: 80px;
+}
